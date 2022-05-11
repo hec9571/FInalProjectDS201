@@ -8,7 +8,7 @@ Comparing the level of income compared to the level of education of each individ
   
   There are about 5,300 colleges and universities in the USA showing how this country has taken the route that skilled workers will not only help individuals but the country’s economy as a whole.  Higher education has led to long term financial stability, improves their overall skills and low unemployment rates.  This is why we decided to focus on the USA, most notably by state, to see how each differs and to see if we can find significant findings.
   
-  So we decided to do it state by state in the United States to answer the following question: How does educational attainment affect the level of income of an individual?  We want to see if education truly has a significantly positive impact on Income level.
+  So we decided to do it state by state in the United States to answer the following question: **How does educational attainment affect the level of income of an individual?**  We want to see if education truly has a significantly positive impact on Income level.
   
   With the USA having a strong culture of secondary education in this country it will be interesting to see if this sort of model is something other countries should follow.  This will show us if investments in education are vital for the Income increases in other societies.
   

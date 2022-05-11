@@ -11,3 +11,5 @@ Comparing the level of income compared to the level of education of each individ
   So we decided to do it state by state in the United States to answer the following question: How does educational attainment affect the level of income of an individual?  We want to see if education truly has a significantly positive impact on Income level.
   
   With the USA having a strong culture of secondary education in this country it will be interesting to see if this sort of model is something other countries should follow.  This will show us if investments in education are vital for the Income increases in other societies.
+  
+  ## Data Organization

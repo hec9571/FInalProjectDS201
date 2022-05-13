@@ -16,7 +16,7 @@
 ## Data Organization
 | Attribute   | Data Type   | Description   | Nullable   |
 |-------------|-------------|---------------|------------|
-|GPA          |Interval     |Grade Point Average on a 0 to 4.0 scale| No |
+|GPA          |Ratio    |Grade Point Average on a 0 to 4.0 scale| No |
 |Days Drinking Alcohol|Ratio|No. of days per month you consume alcohol| No |
 |Binge Drinking|Ratio|No. of days per month you binge drink|Yes|
 |Greek Life|Nominal|Involvement in Greek Life on Campus (Fraternities or Sororities)| No|

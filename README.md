@@ -39,11 +39,12 @@
 The plot below shows a distribution of gpa. From this we can see that the distribution is skewed to the left. In terms of observations students are more likely to have high GPA's with very earning 2.5 or below.
  
 ![Unknown](https://user-images.githubusercontent.com/72221286/168321501-b4861b63-f040-4b42-8eed-512d0c79c532.jpg)
-
+<Why these plot?>
 This plot shows the frequcny of the amount of hours studied. From this plot we can see that our data is skewed to the right meaning that majority of students study anything below 20 hours with highest frequency being observed 10 hours.
 
 ![Unknown](https://user-images.githubusercontent.com/72221286/168326459-defba0c0-bd68-4a99-b254-26ea716b89bb.jpg)
 
+From this scatterplot it's evident that there is a relationship fewer days of alcohol and higher GPAs. Majority of the data is clustered from 0 to 5 with outliers at 25 and 35.
 
 ![Unknown](https://user-images.githubusercontent.com/72221286/168329466-f3ae862f-8335-4ab1-bf0f-e2c1ca922192.jpg)
 

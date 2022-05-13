@@ -24,6 +24,7 @@
 |Hours Excercised|Interval|Hours of Excercise per Week|No|
 |Skip Class|Interval|Skipped Classes in a given semester|No|
 |Organizations|Interval|Number of Organizations Involved In (Clubs, Sports Teams, Arts, Greek Life, Religious Associations)|Yes|
+|Hours of Sleep|Interval|Hourse of Sleep Per Night (On Average)|No|
 
 ## Exploratory Data Analysis
 

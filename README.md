@@ -1,4 +1,4 @@
-# Exploring How Common College Behaviors Impact GPA with Machine Learning
+# GPA and Common Behaviors of College Students
 
 ### Fahad Habona, Sam Wertz, Hector Morales, Peiqian Chen, Max Ippolito
 ## Business Understanding
@@ -68,6 +68,9 @@ Moving forward, we would like to further research the correlation between GPA an
 For any inquiries on this project, please contact Fahad Habona (habonaf@lafayette.edu), Max Ippolito (ippolimh@lafayette.edu, Hector Morales (morales@lafayette.edu), Peiqian Chen (chenp@lafayette.edu), or Samuel Wertz (wertzsr@lafayette.edu)
 
 ## Acknowledgements
+
+Hawkins, Amy L., "Relationship between Undergraduate Student Activity and Academic Performance" (2010). College of Technology
+           Directed Projects. Paper 13. http://docs.lib.purdue.edu/techdirproj/13
 
 
 https://colab.research.google.com/drive/1UVctVQ35vJgpS_4fW2aAu_rTraD7uv--#scrollTo=pgWl89D-RXsb

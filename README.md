@@ -36,9 +36,13 @@
    |--------|--------|--------|--------|--------|--------|-----|
    |1.670   |2.930   |3.300   |3.229   |3.600   |4.000   |28   |
   
- The plot below shows a distribution of gpa. From this we can see that the distribution is skewed to the left. In terms of observations students are more likely to have high GPA's with very earning 2.5 or below.
+The plot below shows a distribution of gpa. From this we can see that the distribution is skewed to the left. In terms of observations students are more likely to have high GPA's with very earning 2.5 or below.
  
 ![Unknown](https://user-images.githubusercontent.com/72221286/168321501-b4861b63-f040-4b42-8eed-512d0c79c532.jpg)
+
+This plot shows the frequcny of the amount of hours studied. From this plot we can see that our data is skewed to the right meaning that majority of students study anything below 20 hours with highest frequency being observed 10 hours.
+
+![Unknown](https://user-images.githubusercontent.com/72221286/168326459-defba0c0-bd68-4a99-b254-26ea716b89bb.jpg)
 
 
 

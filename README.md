@@ -68,3 +68,8 @@ Knowing this looking at Greeklife in comparision to GPA what we see is an almost
 
 We next ran statistical analyses for on our chosen predictors alongside GPA. For each quantiative variable, we first visualized the distribution of the data with a histogram to check for normality then performed a correlation test to check for predictive power on GPA. All but one of the distributions analyzed had right-skewed distributions and did not have normality.
 
+
+
+
+https://colab.research.google.com/drive/1UVctVQ35vJgpS_4fW2aAu_rTraD7uv--#scrollTo=pgWl89D-RXsb
+

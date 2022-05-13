@@ -3,5 +3,5 @@ Comparing the level of income compared to the level of education of each individ
 ## Introduction
   
 ## Data Organization
-| Attribute | Data Type | Description | Nullable |
-| —-------- | —----------- | —------------ | —--------|
+| Attribute   | Data Type   | Description   | Nullable   |
+|-------------|-------------|---------------|------------|

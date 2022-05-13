@@ -57,7 +57,7 @@ We can look into this futher by observing the consuption of alcohol per month ag
 
 ![Unknown](https://user-images.githubusercontent.com/72221286/168394192-8c5af5c2-0e1f-4e64-a503-41ec2673ad1c.png)
 
-Knowing this looking at Greeklife in comparision to GPA what we see is an almost symtrical representation between the 2 groups.
+Knowing this looking at Greeklife in comparision to GPA what we see is an almost symtrical representation between the 2 groups with a small mere difference in grades being noticed. In addition something interesting noticed is that the No catergory contained a couple of outlier GPAs that are below 2.0.
 
 ![Unknown-2](https://user-images.githubusercontent.com/72221286/168394315-5e4179c1-0dbe-42ad-afbe-837a16312a7c.png)
 

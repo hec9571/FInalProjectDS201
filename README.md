@@ -67,7 +67,7 @@ Moving forward, we would like to further research the correlation between GPA an
 ## Inquiries
 For any inquiries on this project, please contact Fahad Habona (habonaf@lafayette.edu), Max Ippolito (ippolimh@lafayette.edu, Hector Morales (morales@lafayette.edu), Peiqian Chen (chenp@lafayette.edu), or Samuel Wertz (wertzsr@lafayette.edu)
 
-## Acknowledgements
+## Acknowledgements and Link to Project
 
 Hawkins, Amy L., "Relationship between Undergraduate Student Activity and Academic Performance" (2010). College of Technology
            Directed Projects. Paper 13. http://docs.lib.purdue.edu/techdirproj/13

@@ -1,5 +1,5 @@
-# Quality of Education and Income Level
-Comparing the level of income compared to the level of education of each individual. 
+# GPA and Common Behaviors of College Students
+
 ## Introduction
 
    College students have been notoriously known for doing activities outside of their classes and being a diverse community with combatting interests.  High school students have increasingly become more likely to go to college and with five thousand three hundred colleges in the states currently we see how popular College is today.  This is a time in a student’s life where they go out and try new things which helps them have a taste of adulthood before entering the working world.  During college, men and women are at their physical peak and it is an excellent time where we see much growth in individuals.  But with everything there are drawbacks and college can come with new experiences that can negatively or positively affect one’s physical or mental health.  There are health issues that could arise from heavy drinking, drug use and other factors such as anxiety.  However, independence could lead to better sleep patterns, making new friends and even more exercise.  Decisions on how long you prepare for exams or even how many meals you have a day could affect your performance in school.  All these newfound responsibilities can hinder or enhance your performance so it will be interesting how these variables interact.

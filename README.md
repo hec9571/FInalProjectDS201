@@ -1,8 +1,5 @@
 # GPA and Common Behaviors of College Students
 
-## This contains a summary of the Final Project for DS 201. For more in-depth in-sight, please check out our walkthrough video or run our notebook directly in Google Colab linked below.
-
-
 ## Business Understanding
 
    College students have been notoriously known for doing activities outside of their classes and being a diverse community with combatting interests.  High school students have increasingly become more likely to go to college and with five thousand three hundred colleges in the states currently we see how popular College is today.  This is a time in a student’s life where they go out and try new things which helps them have a taste of adulthood before entering the working world.  During college, men and women are at their physical peak and it is a time period where we see much growth in individuals.  But with everything there are elements in college that can negatively or positively affect one’s physical or mental health.  There are health issues that could arise from heavy drinking, drug use and other factors such as anxiety.  However, independence could lead to better sleep patterns, making new friends and healthier life choices such as more exercise.  In addition, decisions on how long you prepare for exams or even how many meals you have a day could affect your performance in school.  All these newfound responsibilities can hinder or enhance your performance so it will be interesting how these variables interact.
@@ -63,4 +60,8 @@ We can look into this futher by observing the consuption of alcohol per month ag
 Knowing this looking at Greeklife in comparision to GPA what we see is an almost symtrical representation between the 2 groups with a small mere difference in grades being noticed. In addition something interesting noticed is that the No catergory contained a couple of outlier GPAs that are below 2.0.
 
 ![Unknown-2](https://user-images.githubusercontent.com/72221286/168394315-5e4179c1-0dbe-42ad-afbe-837a16312a7c.png)
+
+### Variable Correlation
+
+We next ran statistical analyses for on our chosen predictors alongside GPA. For each quantiative variable, we first visualized the distribution of the data with a histogram to check for normality then performed a correlation test to check for predictive power on GPA. All but one of the distributions analyzed had right-skewed distributions and did not have normality.
 

@@ -59,4 +59,5 @@ We can look into this futher by observing the consuption of alcohol per month ag
 
 Knowing this looking at Greeklife in comparision to GPA what we see is an almost symtrical representation between the 2 groups.
 
-![Unknown](https://user-images.githubusercontent.com/72221286/168394076-58463d7e-55e6-41c7-a2dc-ccadded48e94.png)
+![Unknown-2](https://user-images.githubusercontent.com/72221286/168394315-5e4179c1-0dbe-42ad-afbe-837a16312a7c.png)
+

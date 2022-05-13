@@ -53,11 +53,12 @@ From this scatterplot it's evident that there is a relationship fewer consuption
 
 ![Unknown](https://user-images.githubusercontent.com/72221286/168329466-f3ae862f-8335-4ab1-bf0f-e2c1ca922192.jpg)
 
-We can look into this futher by observing the consuption of alcohol per month against the variable Greek Life (whether the individual is or is not in Greek Life). Looking at the boxplot we can observe that top 25% of our data in drinking the No categroy lies between values of 10 and 20 drinks per month. In the Yes category the top 25% of our data is between the range of 15 and 25.
+We can look into this futher by observing the consuption of alcohol per month against the variable Greek Life (whether the individual is or is not in Greek Life). Looking at the boxplot we can observe that top 25% (Quandrant 4) of our data in drinking the No categroy lies between values of 10 and 20 drinks per month. In the Yes category the top 25% of our data is between the range of 15 and 25.
 
-![Unknown-4-2](https://user-images.githubusercontent.com/72221286/168388253-8c49ddcb-7678-4bf2-83c1-9eb52a712646.jpg)
+![Unknown-4](https://user-images.githubusercontent.com/72221286/168393033-8b2f6ef9-fa01-4fd5-b8bc-8ba36e9f1a79.jpg)
 
 Knowing this looking at Greeklife in comparision to GPA what we see is an almost symtrical representation between the 2 groups.
 
-![Unknown-5-2](https://user-images.githubusercontent.com/72221286/168388255-f1d4f8dc-465e-45c0-b447-b376eb0ba608.jpg)
+![Unknown](https://user-images.githubusercontent.com/72221286/168393079-e35c0d7c-9309-4fb6-9377-c50de4c76fee.jpg)
+
 

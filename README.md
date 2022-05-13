@@ -45,4 +45,5 @@ This plot shows the frequcny of the amount of hours studied. From this plot we c
 ![Unknown](https://user-images.githubusercontent.com/72221286/168326459-defba0c0-bd68-4a99-b254-26ea716b89bb.jpg)
 
 
+![Unknown](https://user-images.githubusercontent.com/72221286/168329466-f3ae862f-8335-4ab1-bf0f-e2c1ca922192.jpg)
 

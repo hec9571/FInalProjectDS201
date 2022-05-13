@@ -1,4 +1,4 @@
-# GPA and Common Behaviors of College Students
+# Exploring How Common College Behaviors Impact GPA with Machine Learning
 
 ### Fahad Habona, Sam Wertz, Hector Morales, Peiqian Chen, Max Ippolito
 ## Business Understanding

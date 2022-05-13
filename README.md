@@ -14,6 +14,11 @@
 
   
 ## Data Organization
+
+For this project we used a dataset by Professor Trent Gaugler who surveyed 1,485 Penn State students.  This data was compiled in the year 2010 for students enrolled in a Stat 100 course.  The data includes a total of 54 factors for each student which include Gender, Hometown, Living Area, Greek Life involvement, Hours of Job Work, Maridal Status of Parents, GPA, Sitting Area in Class, How Often you Skip Class per Week, Hours Studied, Have They Cheated, Organizations Involved In, How Important Religion is to Them, Their Religion, How Many Time they Pray, Abortion Views, Euthanasia Views, Same Sex Marriage Views, Weight, Height, Idle Weight, Idle Height, How They View their Weight, What They are Actively Trying to do about their Weight, Self Attraction, Friend Prefernece, Most Important Feature in a Friend, Amount of People Kissed, Amount of Long-Term Relationships, Hours of Studying per Week Age They Want to get Married, Hours Exercised, Minutes Exercise, Why They Exercise, When They Want their First Child, How Many Children They Want, How Many Siblings They Have, Hours and Minutes of Exercise per Week, If They Smoke Cigarettes, If They Have a Fake ID, How Many Days They Drink Alcohol per Month, Number of Days per Month They Binge Drink Alcohol, Hours of Sleep per Week, Smoking Marajuana, Drinks Usually When Drinking, Virginity, Whether They have Sex with Someone Not in a Relationship and How Many Sex Partners They Have Had.  This is a mix of qualitative and quantitative data that will be condensed into the factors listed below.  
+
+After condensing the data and identifying some particular trends we looked more closely at these 8 factors listed below:
+
 | Attribute   | Data Type   | Description   | Nullable   |
 |-------------|-------------|---------------|------------|
 |GPA          |Interval     |Grade Point Average on a 0 to 4.0 scale| No |

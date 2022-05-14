@@ -66,6 +66,7 @@ Moving forward, we would like to further research the correlation between GPA an
 
 ## Youtube
 [Click here for our Presentation of our Findings](https://www.youtube.com/watch?v=MfA6G4Z8uVg)
+
 [Click here for our Tutorial video](https://www.youtube.com/watch?v=cl94XWA98Js)
 
 

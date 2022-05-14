@@ -69,6 +69,9 @@ Moving forward, we would like to further research the correlation between GPA an
 
 [Click here for our Tutorial video](https://www.youtube.com/watch?v=cl94XWA98Js)
 
+## IO
+[Click here to access](https://hec9571.github.io/FInalProjectDS201/)
+
 
 ## Inquiries
 For any inquiries on this project, please contact Fahad Habona (habonaf@lafayette.edu), Max Ippolito (ippolimh@lafayette.edu, Hector Morales (morales@lafayette.edu), Peiqian Chen (chenp@lafayette.edu), or Samuel Wertz (wertzsr@lafayette.edu)

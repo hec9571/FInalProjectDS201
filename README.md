@@ -50,7 +50,7 @@ We next ran statistical analyses for on our chosen predictors alongside GPA. For
   
   ![Unknown-2](https://user-images.githubusercontent.com/72221286/168402095-b4b78e78-e293-48ac-8d25-097a79087462.png)
   
-### Machiene Learning
+### Machine Learning
 Our group decided to use supervised machine learning via linear regression with a quantitative target variable to confirm the findings. After selecting our 7 quantitative predictor variables we ran linear regression of GPA as fucntion of these variables. We then constructed a neural network to futher explore any further relationships. After which we then created a plot showing our training and validation losses and accuracies.
 
 ![Unknown-3](https://user-images.githubusercontent.com/72221286/168402339-94edcbb6-0cb8-4513-a52b-f5ba55e4c33d.png)
@@ -70,7 +70,7 @@ Moving forward, we would like to further research the correlation between GPA an
 [Click here for our Tutorial video](https://www.youtube.com/watch?v=cl94XWA98Js)
 
 ## IO
-[Click here to access](https://hec9571.github.io/FInalProjectDS201/)
+[Click here to access our IO page](https://hec9571.github.io/FInalProjectDS201/)
 
 
 ## Inquiries
@@ -82,5 +82,5 @@ Hawkins, Amy L., "Relationship between Undergraduate Student Activity and Academ
            Directed Projects. Paper 13. http://docs.lib.purdue.edu/techdirproj/13
 
 
-https://colab.research.google.com/drive/1UVctVQ35vJgpS_4fW2aAu_rTraD7uv--#scrollTo=pgWl89D-RXsb
+[Click here to access our Google Colab](https://colab.research.google.com/drive/1UVctVQ35vJgpS_4fW2aAu_rTraD7uv--#scrollTo=pgWl89D-RXsb)
 

@@ -51,9 +51,7 @@ We next ran statistical analyses for on our chosen predictors alongside GPA. For
   ![Unknown-2](https://user-images.githubusercontent.com/72221286/168402095-b4b78e78-e293-48ac-8d25-097a79087462.png)
   
 ### Machiene Learning
-Our group decided to use supervised machine learning via linear regression with a quantitative target variable to confirm the findings. After selecting our 7 quantitative predictor variables we ran linear regression of GPA as fucntion of these variables. We then constructed a neural network to futher explore any further relationships.
-
-
+Our group decided to use supervised machine learning via linear regression with a quantitative target variable to confirm the findings. After selecting our 7 quantitative predictor variables we ran linear regression of GPA as fucntion of these variables. We then constructed a neural network to futher explore any further relationships. After which we then created a plot showing our training and validation losses and accuracies.
 
 ![Unknown-3](https://user-images.githubusercontent.com/72221286/168402339-94edcbb6-0cb8-4513-a52b-f5ba55e4c33d.png)
 

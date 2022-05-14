@@ -51,6 +51,7 @@ We next ran statistical analyses for on our chosen predictors alongside GPA. For
   ![Unknown-2](https://user-images.githubusercontent.com/72221286/168402095-b4b78e78-e293-48ac-8d25-097a79087462.png)
   
 ### Machiene Learning
+Our group decided to use supervised machine learning via linear regression with a quantitative target variable to confirm the findings. After selecting our 7 quantitative predictor variables we ran linear regression of GPA as fucntion of these variables. We then constructed a neural network to futher explore any further relationships.
 
 
 
@@ -64,6 +65,11 @@ One main observation we were able to see was that days spent drinking and binge 
 Based on our insights, we can make the following recommendations to future college students. If students currently in college or seeking to attend college would like to achieve a positive GPA, they are better off getting involved with organizations and spending a good amount of hours studying and exercising. If you would rather, for some reason, like to have a negative GPA, you are better off skipping class. From the variables we observed, these were the ones that had an impact on a student's GPA. If a student would like to drink, it appears that it would make no difference to what their final GPA may be.
 
 Moving forward, we would like to further research the correlation between GPA and typical college behavior at different sized institutions. We hypothesize that, similar to the one in this report, there will be an effect on GPA due to college behavior regardless of the size of the institution.
+
+## Youtube
+[Click here for our Presentation of our Findings](https://www.youtube.com/watch?v=MfA6G4Z8uVg)
+[Click here for our Tutorial video](https://www.youtube.com/watch?v=cl94XWA98Js)
+
 
 ## Inquiries
 For any inquiries on this project, please contact Fahad Habona (habonaf@lafayette.edu), Max Ippolito (ippolimh@lafayette.edu, Hector Morales (morales@lafayette.edu), Peiqian Chen (chenp@lafayette.edu), or Samuel Wertz (wertzsr@lafayette.edu)
